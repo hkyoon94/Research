@@ -1,6 +1,6 @@
 # Research
 
-### My researching workspace
+### My workspace for general researching.
 
 1. GNN_optim_research/ contains the study that attempted to augment the performance of simple classification tasks using GNN.
 
